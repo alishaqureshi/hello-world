@@ -7,6 +7,7 @@ int main() {
 
   
   cout<<"Hello China"<<endl;
+  cout<<"South Korea"<<endl;
   int a=34;
   int b=2; // Added via new branch
   return 0;
