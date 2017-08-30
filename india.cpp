@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
   cout<<"Hello India"<<endl;
-
+  cout<<"Hello USA"<<endl;
 
   
   cout<<"Hello China"<<endl;
